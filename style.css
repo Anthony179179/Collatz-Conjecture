@@ -1,0 +1,21 @@
+html, body {
+  margin: 0;
+  padding: 0;
+  background-color: rgb(244, 96, 54);
+}
+
+h1 {
+  position: absolute;
+  bottom: 30px;
+  right: 70px;
+  font-size: 40px;
+  color:rgb(30, 30, 30);
+  font-family: monospace;
+  border-color: rgb(30, 30, 30);
+  border-bottom-style: solid;
+}
+
+
+canvas {
+  display: block;
+}
